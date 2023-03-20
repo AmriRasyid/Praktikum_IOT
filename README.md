@@ -6,7 +6,7 @@ Muhammad Amri Rasyid Ramadhan
 2009106029
 Muhammad Rizky Nilzamyahya
 
-<h3>Judul :<h3>
+<h1>Judul :<h1>
 Membuat Rangkaian untuk mengatur kecerahan LED dan Frekuensi suara Buzzer
 
 <h3>Deskripsi :<h3>
