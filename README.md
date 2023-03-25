@@ -4,19 +4,19 @@
 
 <b>2009106029 - Muhamad Rizky Nilzamyahya</b>
 
-<h4>Judul :<h4>
+<h3>Judul :<h3>
   <h2>Membuat Rangkaian untuk mengatur kecerahan LED dan Frekuensi suara Buzzer</h2>
 
   
-<h4>Deskripsi :<h4>
+<h3>Deskripsi :<h3>
 Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan mengatur tingkat frekuensi suara dari Buzzer
 
   
-<h4>Metode IOT :<h4>
+<h3>Metode IOT :<h3>
 -
 
   
-<h4>Pembagian Tugas :<h4>
+<h3>Pembagian Tugas :<h3>
   Muhammad Amri Rasyid Ramadhan
   Membuat rangkaian LED dan Buzzer
   Codingan
@@ -25,7 +25,7 @@ Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan me
   Membuat rangkaian LED dan Buzzer
   Codingan
   
-<h4>Komponen yang digunan :<h4>
+<h3>Komponen yang digunan :<h3>
   * 1 Buzzer
   * 1 Lampu LED Merah
   * 2 Breadboard
@@ -34,5 +34,17 @@ Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan me
   * 1 Resistor
   * 14 Male to Male Cables
   
-<h4>Board Schematic :<h4>
+<h3>Board Schematic :<h3>
+  
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 
