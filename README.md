@@ -1,4 +1,4 @@
-# Praktikum_IOT
+# Praktikum_IOT #
 
 <b>2009106047 - Muhammad Amri Rasyid Ramadhan</b>
 
@@ -35,16 +35,3 @@ Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan me
   * 14 Male to Male Cables
   
 <h3>Board Schematic :<h3>
-  
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-
