@@ -1,11 +1,8 @@
 # Praktikum_IOT
 
-<b>*2009106047</b>
-<b>Muhammad Amri Rasyid Ramadhan</b>
+<b>2009106047 - Muhammad Amri Rasyid Ramadhan</b>
 
-<b>*2009106029</b>
-<b>Muhamad Rizky Nilzamyahya</b>
-
+<b>2009106029 - Muhamad Rizky Nilzamyahya</b>
 
 <h4>Judul :<h4>
 Membuat Rangkaian untuk mengatur kecerahan LED dan Frekuensi suara Buzzer
