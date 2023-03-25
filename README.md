@@ -18,25 +18,21 @@ Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan me
   
 <h4>Pembagian Tugas :<h4>
   Muhammad Amri Rasyid Ramadhan
-  <ol>
-    <li>* Membuat rangkaian LED dan Buzzer</li>
-    <li>* Codingan</li>
-  </ol>
-  Muhamad Rizky Nilzamyahya
-  <ol>
-    <li>* Membuat rangkaian LED dan Buzzer</li>
-    <li>* Codingan</li>
-  </ol>
+  Membuat rangkaian LED dan Buzzer
+  Codingan
 
+  Muhamad Rizky Nilzamyahya
+  Membuat rangkaian LED dan Buzzer
+  Codingan
   
 <h4>Komponen yang digunan :<h4>
-  *1 Buzzer
-  *1 Lampu LED Merah
-  *2 Breadboard
-  *6 Button
-  *1 ESP8266
-  *1 Resistor
-  *14 Male to Male Cables
+  * 1 Buzzer
+  * 1 Lampu LED Merah
+  * 2 Breadboard
+  * 6 Button
+  * 1 ESP8266
+  * 1 Resistor
+  * 14 Male to Male Cables
   
 <h4>Board Schematic :<h4>
 
