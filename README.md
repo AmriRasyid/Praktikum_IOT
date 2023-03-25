@@ -20,7 +20,6 @@ Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan me
   Muhammad Amri Rasyid Ramadhan
   - Membuat rangkaian LED dan Buzzer
   - Codingan
-
   Muhamad Rizky Nilzamyahya
   - Membuat rangkaian LED dan Buzzer
   - Codingan
