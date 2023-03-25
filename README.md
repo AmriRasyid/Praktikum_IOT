@@ -5,7 +5,7 @@
 <b>2009106029 - Muhamad Rizky Nilzamyahya</b>
 
 <h4>Judul :<h4>
-Membuat Rangkaian untuk mengatur kecerahan LED dan Frekuensi suara Buzzer
+  <h1>Membuat Rangkaian untuk mengatur kecerahan LED dan Frekuensi suara Buzzer</h1>
 
   
 <h4>Deskripsi :<h4>
