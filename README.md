@@ -1,10 +1,10 @@
 # Praktikum_IOT
 
-2009106047
-Muhammad Amri Rasyid Ramadhan
+<b>2009106047</b>
+<b>Muhammad Amri Rasyid Ramadhan</b>
 
-2009106029
-Muhammad Rizky Nilzamyahya
+<b>2009106029</b>
+<b>Muhamad Rizky Nilzamyahya</b>
 
 
 <h4>Judul :<h4>
