@@ -30,15 +30,13 @@ Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan me
 
   
 <h4>Komponen yang digunan :<h4>
-  <ol>
-    <li>* 1 Buzzer</li>
-    <li>* 1 Lampu LED Merah</li>
-    <li>* 2 Breadboard</li>
-    <li>* 6 Button</li>
-    <li>* 1 ESP8266</li>
-    <li>* 1 Resistor</li>
-    <li>* 14 Male to Male Cables</li>
-  </ol>
+    - 1 Buzzer
+    - 1 Lampu LED Merah
+    - 2 Breadboard
+    - 6 Button
+    - 1 ESP8266
+    - 1 Resistor
+    - 14 Male to Male Cables
   
 <h4>Board Schematic :<h4>
 
