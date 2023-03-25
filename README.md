@@ -9,18 +9,13 @@
 
   
 <h3>Deskripsi :<h3>
-Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan mengatur tingkat frekuensi suara dari Buzzer
+  Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan mengatur tingkat frekuensi suara dari Buzzer
 
-  
-<h3>Metode IOT :<h3>
--
-
-  
 <h3>Pembagian Tugas :<h3>
-  Muhammad Amri Rasyid Ramadhan
+  - Muhammad Amri Rasyid Ramadhan
     - Membuat rangkaian LED dan Buzzer
     - Codingan
-  Muhamad Rizky Nilzamyahya
+  - Muhamad Rizky Nilzamyahya
     - Membuat rangkaian LED dan Buzzer
     - Codingan
   
