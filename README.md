@@ -5,11 +5,11 @@
 <b>2009106029 - Muhamad Rizky Nilzamyahya</b>
 
 <h4>Judul :<h4>
-  <h1>Membuat Rangkaian untuk mengatur kecerahan LED dan Frekuensi suara Buzzer</h1>
+  <h2>Membuat Rangkaian untuk mengatur kecerahan LED dan Frekuensi suara Buzzer</h2>
 
   
 <h4>Deskripsi :<h4>
-Rancangan ini digunakan untuk monitoring kecerahan lampu LED dan mengatur tingkat frekuensi
+Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan mengatur tingkat frekuensi suara dari Buzzer
 
   
 <h4>Metode IOT :<h4>
@@ -17,19 +17,28 @@ Rancangan ini digunakan untuk monitoring kecerahan lampu LED dan mengatur tingka
 
   
 <h4>Pembagian Tugas :<h4>
-Amri mengerjakan rangkaian dan koding dengan kelompok lain
-Yahya mengerjakan rangkaian dan koding dengan kelompok lain
+  Muhammad Amri Rasyid Ramadhan
+  <ol>
+    <li>* Membuat rangkaian LED dan Buzzer</li>
+    <li>* Codingan</li>
+  </ol>
+  Muhamad Rizky Nilzamyahya
+  <ol>
+    <li>* Membuat rangkaian LED dan Buzzer</li>
+    <li>* Codingan</li>
+  </ol>
 
   
 <h4>Komponen yang digunan :<h4>
--Buzzer
--LED Merah
--Breadboard 2pcs
--Button 6pcs
--ESP8266 1pcs
--Resistor 1pcs
--Male to male cable 14pcs
-
+  <ol>
+    <li>* 1 Buzzer</li>
+    <li>* 1 Lampu LED Merah</li>
+    <li>* 2 Breadboard</li>
+    <li>* 6 Button</li>
+    <li>* 1 ESP8266</li>
+    <li>* 1 Resistor</li>
+    <li>* 14 Male to Male Cables</li>
+  </ol>
   
 <h4>Board Schematic :<h4>
--
+
