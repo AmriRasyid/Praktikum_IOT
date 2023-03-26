@@ -12,24 +12,24 @@
   Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan mengatur tingkat frekuensi suara dari Buzzer
 
 <h3>Pembagian Tugas :<h3>
-<h4>Muhammad Amri Rasyid Ramadhan</h4>
 <ul>
+  <h4>[ Muhammad Amri Rasyid Ramadhan ]</h4>
   <li>Membuat rangkaian LED dan Buzzer</li>
   <li>Codingan</li>
-<ul>
-<h4>Muhamad Rizky Nilzamyahya</h4>
-<ul>
+  <h4>[ Muhamad Rizky Nilzamyahya ]</h4>
   <li>Membuat rangkaian LED dan Buzzer</li>
   <li>Codingan</li>
-<ul>
+</ul>
   
 <h3>Komponen yang digunakan :<h3>
-- 1 Buzzer
-- 1 Lampu Merah LED
-- 2 Breadboard
-- 6 Button
-- 1 ESP8266
-- 1 Resistor
-- 14 Male to Male Cables
+<ul>
+  <li> 1 Buzzer</li>
+  <li> 1 Lampu Merah LED</li>
+  <li> 2 Breadboard</li>
+  <li> 6 Button</li>
+  <li> 1 ESP8266</li>
+  <li> 1 Resistor</li>
+  <li> 14 Male to Male Cables</li>
+<ul>
   
 <h3>Board Schematic :<h3>
