@@ -13,11 +13,11 @@
 
 <h3>Pembagian Tugas :<h3>
 <h4>Muhammad Amri Rasyid Ramadhan</h4>
-- Membuat rangkaian LED dan Buzzer
-- Codingan
+  - Membuat rangkaian LED dan Buzzer
+  - Codingan
 <h4>Muhamad Rizky Nilzamyahya</h4>
-- Membuat rangkaian LED dan Buzzer
-- Codingan
+  - Membuat rangkaian LEd dan Buzzer
+  - Codingan
   
 <h3>Komponen yang digunakan :<h3>
 - 1 Buzzer
