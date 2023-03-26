@@ -12,10 +12,10 @@
   Rancangan ini digunakan untuk monitoring tingkat kecerahan dari lampu LED dan mengatur tingkat frekuensi suara dari Buzzer
 
 <h3>Pembagian Tugas :<h3>
-  Muhammad Amri Rasyid Ramadhan
+<h4>Muhammad Amri Rasyid Ramadhan</h4>
 - Membuat rangkaian LED dan Buzzer
 - Codingan
-  Muhamad Rizky Nilzamyahya
+<h4>Muhamad Rizky Nilzamyahya</h4>
 - Membuat rangkaian LED dan Buzzer
 - Codingan
   
