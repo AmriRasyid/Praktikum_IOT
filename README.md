@@ -31,7 +31,7 @@
   <li> 6 Button</li>
   <li> 1 ESP8266</li>
   <li> 1 Resistor</li>
-  <li> 14 Male to Male Cables</li>
+  <li> 16 Male to Male Cables</li>
 </ul>
   
 <h3>Board Schematic :<h3>
