@@ -35,3 +35,4 @@
 </ul>
   
 <h3>Board Schematic :<h3>
+![WhatsApp Image 2023-03-27 at 15 02 18](https://user-images.githubusercontent.com/114044332/227893252-96e3ca3e-e443-4e5a-8e84-f220c23095af.jpeg)
